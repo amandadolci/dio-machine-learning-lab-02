@@ -95,7 +95,7 @@ O próximo recurso que você experimentará é a funcionalidade **Extrair Tags**
 
 ## Detecção de objetos
 
-Nesta tarefa, você usa o recurso \*\*de detecção de objetos\*\* da Análise de imagem. A detecção de objetos detecta e extrai caixas delimitadoras com base em milhares de objetos e seres vivos reconhecíveis.
+Nesta tarefa, você usa o recurso **de detecção de objetos** da Análise de imagem. A detecção de objetos detecta e extrai caixas delimitadoras com base em milhares de objetos e seres vivos reconhecíveis.
 
 1. Retorne à página inicial do Vision Studio e selecione o bloco **Detectar objetos comuns em imagens** na guia **Análise de imagem**.
 
