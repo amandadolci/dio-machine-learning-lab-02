@@ -167,6 +167,8 @@ Se não pretende fazer mais exercícios, exclua todos os recursos que não preci
 Abra o [portal do Azure](https://portal.azure.com/) e selecione o grupo de recursos que contém o recurso que você criou.
 Selecione o recurso e selecione **Excluir** e depois **Sim** para confirmar. O recurso é então excluído.
 
+#
+
 _Instruções de uso dos laboratórios extraídas e traduzidas para pt-BR dos seguintes links:_
 
 *https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html*
